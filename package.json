@@ -1,0 +1,8 @@
+{
+    "name": "youtube-downloader-backend",
+    "version": "1.0.0",
+    "description": "Backend para descargador de YouTube",
+    "dependencies": {
+        "ytdl-core": "^4.11.5"
+    }
+}
